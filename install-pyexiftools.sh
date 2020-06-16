@@ -1,7 +1,6 @@
 # Installs pyexiftools and dependencies into current python environment
 
 sudo apt install git
-sudo apt install git-lfs
 sudo apt install libzbar0
 sudo apt install make
 
